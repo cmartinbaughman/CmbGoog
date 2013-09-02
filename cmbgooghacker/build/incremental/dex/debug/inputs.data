@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1378136628000 440 37055167560fe088f312d8deb489247e05b240be /home/cmbaughman/android-sdks/samples/android-17/cmbgooghackerProject/cmbgooghacker/build/classes/debug/com/cmb/cmbgooghacker/R$style.class
+1378136628000 402 b21838a51aad01ad1877692fdd7aac325dbe9a55 /home/cmbaughman/android-sdks/samples/android-17/cmbgooghackerProject/cmbgooghacker/build/classes/debug/com/cmb/cmbgooghacker/R$id.class
+1378136628000 470 9a5fb4712f6083f4e29cb51ed791d65ba3b2dd2e /home/cmbaughman/android-sdks/samples/android-17/cmbgooghackerProject/cmbgooghacker/build/classes/debug/com/cmb/cmbgooghacker/R$dimen.class
+1378136628000 823 c9654017863a5a6457d966e4611b6830b024b869 /home/cmbaughman/android-sdks/samples/android-17/cmbgooghackerProject/cmbgooghacker/build/classes/debug/com/cmb/cmbgooghacker/MainActivity.class
+1378136628000 481 56a0d9a9a932e8a7fea0bc3ae091c953972c04f8 /home/cmbaughman/android-sdks/samples/android-17/cmbgooghackerProject/cmbgooghacker/build/classes/debug/com/cmb/cmbgooghacker/R$string.class
+1378136628000 412 147e7133ae1bf953950d1f31bca2e66899515762 /home/cmbaughman/android-sdks/samples/android-17/cmbgooghackerProject/cmbgooghacker/build/classes/debug/com/cmb/cmbgooghacker/R$layout.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /home/cmbaughman/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1378136628000 351 c9a4f584f695bf770cfa5544c0a462dd658f3d74 /home/cmbaughman/android-sdks/samples/android-17/cmbgooghackerProject/cmbgooghacker/build/classes/debug/com/cmb/cmbgooghacker/BuildConfig.class
+1378136628000 397 279d7e38d9a04703374701c5987cc862233ad468 /home/cmbaughman/android-sdks/samples/android-17/cmbgooghackerProject/cmbgooghacker/build/classes/debug/com/cmb/cmbgooghacker/R$menu.class
+1378136628000 416 b796898e1f1a2c750c66edec45d3dd218a8e72a7 /home/cmbaughman/android-sdks/samples/android-17/cmbgooghackerProject/cmbgooghacker/build/classes/debug/com/cmb/cmbgooghacker/R$drawable.class
+1378136628000 707 ef5de30c98e9cad68e50efbbeee4f014182eaae1 /home/cmbaughman/android-sdks/samples/android-17/cmbgooghackerProject/cmbgooghacker/build/classes/debug/com/cmb/cmbgooghacker/R.class
+1378136628000 349 47396707013f8ec31eaff5b0b36831cd95bfa300 /home/cmbaughman/android-sdks/samples/android-17/cmbgooghackerProject/cmbgooghacker/build/classes/debug/com/cmb/cmbgooghacker/R$attr.class
